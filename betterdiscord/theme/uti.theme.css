@@ -8,7 +8,7 @@
   --app-accent-rgb: 215,61,61;
   --app-accent-text: #000;
   --sidebar-color: rgba(0,0,0,0.4);
-  --sidebar-blur: 12px;
+  --sidebar-blur: 1px;
   --main-content-color: rgba(0,0,0,0.2);
   --main-content-blur: 4px;
   --messages-color: rgba(0,0,0,0.4);
