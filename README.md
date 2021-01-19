@@ -6,7 +6,7 @@
 <h4><a id="user-content-app-elements" class="anchor" aria-hidden="true" href="#app-elements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>App elements</h4>
 <ul>
   
-<li><code>--app-bg</code> - The background image for the entire Discord app. Default: <code>url(https://i.imgur.com/U8bSjj5.jpg)</code></li>
+<li><code>--app-bg</code> - The background image for the entire Discord app. Default: <code>url(https://i.hizliresim.com/zwoqJC.jpg)</code></li>
 <li><code>--app-blur</code> - The strength of the blur for every element that has one. Default: <code>6px</code></li>
 <li><code>--app-margin</code> - The margin surrounding the content area. Default: <code>24px</code></li>
 <li><code>--app-radius</code> - The border radius of the app and every element that has a border radius. Default: <code>8px</code></li>
