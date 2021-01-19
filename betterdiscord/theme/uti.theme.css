@@ -3293,10 +3293,6 @@
     .roles-2tZ5Iq::-webkit-scrollbar-thumb:hover {
       background: rgba(var(--scrollbar-color-alt), 0.15) !important; }
   
-  /* SCROLLBARS -> REMOVE SCROLLBAR */
-  .wrapper-1Rf91z .scroller-2TZvBN::-webkit-scrollbar {
-    width: 0 !important; }
-  
   /*
    *
    *	SUPPORTED PLUGINS
