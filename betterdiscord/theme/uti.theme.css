@@ -1,13 +1,13 @@
-:root {
+ :root {
     --app-bg: url(https://i.hizliresim.com/DpFCxO.jpg);
     --app-blur: 2px;
     --app-margin: 24px;
-    --app-radius: 4px;
+    --app-radius: 14px;
     --app-accent: #d73d3d;
     --app-accent-image: none;
     --app-accent-rgb: 215,61,61;
     --app-accent-text: #000;
-    --sidebar-color: rgba(0,0,0,0.4);
+    --sidebar-color: rgba(0,0,0,0.45);
     --sidebar-blur: 12px;
     --main-content-color: rgba(0,0,0,0.2);
     --main-content-blur: 4px;
