@@ -12,7 +12,7 @@
     --main-content-color: rgba(0,0,0,0.2);
     --main-content-blur: 4px;
     --messages-color: rgba(0,0,0,0.4);
-    --messages-radius: var(--app-radius);
+    --messages-radius: 5px;
     --messages-padding: 8px;
     --mention-color: var(--app-accent);
     --mention-rgb: var(--app-accent-rgb);
