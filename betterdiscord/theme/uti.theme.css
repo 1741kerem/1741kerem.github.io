@@ -5,7 +5,7 @@
     --app-radius: 14px;
     --app-accent: #daaf22;
     --app-accent-image: none;
-    --app-accent-rgb: 215,61,61;
+    --app-accent-rgb: 218,175,34;
     --app-accent-text: #000;
     --sidebar-color: rgba(0,0,0,0.45);
     --sidebar-blur: 12px;
@@ -3221,7 +3221,7 @@
     margin: 295px 0 0 0; }
     .contentColumnDefault-1VQkGM .ace_editor:before {
       position: absolute;
-      content: "Renkleri değiştirmek için önce aşağıdaki kodu kopyalayın.\A\A Daha fazla bilgi için aşağıdaki linke bakabilirsiniz. \A\A https://github.com/1741kerem/betterdiscord/tree/main/mythemes\A\A :root {\A\9--app-bg: url(https://i.hizliresim.com/zwoqJC.jpg) !important;\A\9--app-blur: 6px !important;\A\9--app-margin: 24px !important;\A\9--app-radius: 8px !important;\A\9--app-accent: #d73d3d !important;\A\9--app-accent-rgb: 215,61,61 !important;\A\9--app-accent-text: #000 !important;\A}";
+      content: "Renkleri değiştirmek için önce aşağıdaki kodu kopyalayın.\A\A Daha fazla bilgi için aşağıdaki linke bakabilirsiniz. \A\A https://github.com/1741kerem/betterdiscord/tree/main/mythemes\A\A :root {\A\9--app-bg: url(https://i.hizliresim.com/zwoqJC.jpg) !important;\A\9--app-blur: 6px !important;\A\9--app-margin: 24px !important;\A\9--app-radius: 8px !important;\A\9--app-accent: #daaf22; !important;\A\9--app-accent-rgb: 218,175,34 !important;\A\9--app-accent-text: #000 !important;\A}";
       display: block;
       width: calc(100% - 32px);
       top: -295px;
