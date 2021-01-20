@@ -63,3 +63,8 @@
 <li><code>--popout-radius</code> - Kipler / açılır pencereler için kenarlık yarıçapı. Varsayılan: <code>8px</code></li>
 <li><code>--popout-shadow</code> - Kipler / pop-out'lar için gölge. Varsayılan: <code>0 8px 10px 1px rgba(0,0,0, 0.14)</code></li>
 </ul>
+
+# Changelog
+
+>> Changed <li><code>Now Playing</code></li> and <li><code>Listening Spotify</code></li> color.
+>> Changed App Accent Color
