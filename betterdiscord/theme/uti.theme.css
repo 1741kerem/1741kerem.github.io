@@ -58,11 +58,30 @@
     --scrollbar-color-alt: 255,255,255;
     --scrollbar-opacity: 0.5;
     --scrollbar-opacity-hover: 0.7;
-    --scrollbar-width: 10px; }
+    --scrollbar-width: 10px;
+    --gradient1: #ffdb0e;
+    --gradient2: #c45a1c;
+    --hover-color: rgb(255, 196, 0); }
   
   /*
    *
-   *	APP ELEMENTS
+   *	Friend List Bar
+   *
+   */
+
+  .uye-listesi {
+    color: var(--hover-color) !important;
+    border-bottom: 3px solid;
+    border-image: linear-gradient(90deg, transparent, var(--gradient1), var(--gradient2), transparent);
+    border-image-slice: 1;
+    padding: 19px 16px 6px 16px;
+    margin: 4px 0px 10px 15px;
+    text-align: center;
+    }
+
+  /*
+   *
+   *	Uygulama Ögeleri
    *
    */
   body {
