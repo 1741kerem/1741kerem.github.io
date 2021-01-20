@@ -68,3 +68,4 @@
 
 > Changed <code>Now Playing</code> and <code>Listening Spotify</code> color.
 > Changed App Accent Color
+> Added Member List Feature
