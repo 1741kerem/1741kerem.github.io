@@ -81,6 +81,28 @@
 
   /*
    *
+   *	UnDead To Infinity Title Bar Text
+   *
+   */
+
+.wordmark-2iDDfm:after {
+  content: 'UnDead To Infinity';
+  position: absolute !important;
+  left: 40px;
+  width: 100vw;
+  font-family: 'Aquire';
+  color: rgb(255, 255, 255);
+  font-size: 19px;
+  font-weight: bold;
+  margin-top: 6px;
+}
+
+.wordmark-2iDDfm path {
+	display:none;
+}
+
+  /*
+   *
    *	Uygulama Ögeleri
    *
    */
