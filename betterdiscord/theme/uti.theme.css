@@ -1,4 +1,6 @@
- :root {
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
+:root {
     --app-bg: url(https://i.hizliresim.com/DpFCxO.jpg);
     --app-blur: 2px;
     --app-margin: 24px;
@@ -90,7 +92,7 @@
   position: absolute !important;
   left: 40px;
   width: 100vw;
-  font-family: 'Aquire';
+  font-family: 'Satisfy';
   color: rgb(255, 255, 255);
   font-size: 19px;
   font-weight: bold;
