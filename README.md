@@ -71,3 +71,10 @@
 <p> Added Member List Feature
 <p> Added Title Bar Text UnDead To Infinity
 <p> Changed Member List Feature
+  
+<p> Changing Text Font
+<p> <code>
+    #app-mount {
+      font-family: 'Sitka Display';
+    }
+</code>
