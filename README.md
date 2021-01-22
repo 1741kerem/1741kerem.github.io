@@ -72,10 +72,9 @@
 <p> Added Title Bar Text UnDead To Infinity
 <p> Changed Member List Feature
   
-<p> Changing Text Font
+<p> Changing Text Font:</p>
 
-<code>
-<p>    #app-mount {
-<p>      font-family: 'Sitka Display';
-<p>    }
-</code>
+<p><code>    #app-mount {
+<p>font-family: 'Sitka Display';
+<p>}</code>
+
