@@ -70,3 +70,4 @@
 <p> Changed App Accent Color
 <p> Added Member List Feature
 <p> Added Title Bar Text UnDead To Infinity
+<p> Changed Member List Feature
