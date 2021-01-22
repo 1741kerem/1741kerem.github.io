@@ -75,6 +75,6 @@
 <p> Changing Text Font
 <p> <code>
 <p>    #app-mount {
-<p>      \nfont-family: 'Sitka Display';
+<p>      font-family: 'Sitka Display';
 <p>    }
 </code>
