@@ -73,7 +73,8 @@
 <p> Changed Member List Feature
   
 <p> Changing Text Font
-<p> <code>
+
+<code>
 <p>    #app-mount {
 <p>      font-family: 'Sitka Display';
 <p>    }
